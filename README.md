@@ -6,4 +6,5 @@ Repo for AOC 2024 solutions using golang
 Progress
 --------
 
-[x] day 1
+- [x] day 1
+- [x] day 2
