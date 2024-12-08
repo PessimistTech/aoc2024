@@ -12,3 +12,4 @@ Progress
 - [x] day 4
 - [x] day 5
 - [x] day 6
+- [x] day 7
